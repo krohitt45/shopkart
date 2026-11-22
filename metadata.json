@@ -1,0 +1,6 @@
+{
+  "name": "ShopKart - MERN Full-Stack E-Commerce Platform",
+  "description": "Enterprise-grade MERN e-commerce platform inspired by Flipkart and Amazon with complete customer shopping, order management, multi-step checkout, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
